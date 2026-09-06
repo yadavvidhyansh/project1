@@ -1,0 +1,127 @@
+2026-09-06 10:21:21,583 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\vidhy\\project1\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-09-06 10:21:21,583 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\vidhy\project1\.venv\Lib\site-packages\comtypes\gen'
+2026-09-06 10:26:33,360 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\vidhy\\project1\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-09-06 10:26:33,362 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\vidhy\project1\.venv\Lib\site-packages\comtypes\gen'
+2026-09-06 10:28:27,988 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\vidhy\\project1\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-09-06 10:28:27,989 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\vidhy\project1\.venv\Lib\site-packages\comtypes\gen'
+2026-09-06 10:28:28,116 - NovaAssistant - INFO - Nova Assistant Initializing...
+2026-09-06 10:28:28,117 - NovaAssistant - INFO - Speaking: Initializing Nova
+2026-09-06 10:28:54,470 - NovaAssistant - INFO - Speaking: Hello Captain. How can I help you?
+2026-09-06 10:29:00,508 - NovaAssistant - INFO - Processing AI command: hello captain how can I help you
+2026-09-06 10:29:02,599 - httpx2 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-09-06 10:29:02,601 - openai._base_client - INFO - Retrying request in 0.426043 seconds
+2026-09-06 10:29:04,207 - httpx2 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-09-06 10:29:04,209 - openai._base_client - INFO - Retrying request in 0.803919 seconds
+2026-09-06 10:29:05,787 - httpx2 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-09-06 10:29:05,790 - NovaAssistant - ERROR - OpenAI Error: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+2026-09-06 10:29:05,791 - NovaAssistant - INFO - Speaking: I'm having trouble connecting to my brain right now.
+2026-09-06 10:29:21,511 - NovaAssistant - INFO - Speaking: Hello Captain. How can I help you?
+2026-09-06 10:29:26,873 - NovaAssistant - INFO - Processing AI command: hello captain how can I help you
+2026-09-06 10:29:27,573 - httpx2 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-09-06 10:29:27,574 - openai._base_client - INFO - Retrying request in 0.376104 seconds
+2026-09-06 10:29:28,554 - httpx2 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-09-06 10:29:28,555 - openai._base_client - INFO - Retrying request in 0.927633 seconds
+2026-09-06 10:29:29,811 - httpx2 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-09-06 10:29:29,813 - NovaAssistant - ERROR - OpenAI Error: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+2026-09-06 10:29:29,813 - NovaAssistant - INFO - Speaking: I'm having trouble connecting to my brain right now.
+2026-09-06 10:32:39,108 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\vidhy\\project1\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-09-06 10:32:39,109 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\vidhy\project1\.venv\Lib\site-packages\comtypes\gen'
+2026-09-06 10:34:01,017 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\vidhy\\project1\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-09-06 10:34:01,018 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\vidhy\project1\.venv\Lib\site-packages\comtypes\gen'
+2026-09-06 10:34:01,132 - NovaAssistant - INFO - Nova Assistant Initializing...
+2026-09-06 10:34:01,133 - NovaAssistant - INFO - Speaking: Initializing Nova
+2026-09-06 10:35:27,374 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\vidhy\\project1\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-09-06 10:35:27,375 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\vidhy\project1\.venv\Lib\site-packages\comtypes\gen'
+2026-09-06 10:35:27,495 - NovaAssistant - INFO - Nova Assistant Initializing...
+2026-09-06 10:35:27,496 - NovaAssistant - INFO - Speaking: Initializing Nova
+2026-09-06 10:35:37,089 - NovaAssistant - INFO - Speaking: Hello Captain. How can I help you?
+2026-09-06 10:35:45,864 - NovaAssistant - INFO - Speaking: Pothole model file not found. Please check your weights folder.
+2026-09-06 10:38:15,133 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\vidhy\\project1\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-09-06 10:38:15,134 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\vidhy\project1\.venv\Lib\site-packages\comtypes\gen'
+2026-09-06 10:38:15,259 - NovaAssistant - INFO - Nova Assistant Initializing...
+2026-09-06 10:38:15,259 - NovaAssistant - INFO - Speaking: Initializing Nova
+2026-09-06 10:38:38,521 - NovaAssistant - INFO - Speaking: Hello Captain. How can I help you?
+2026-09-06 10:38:46,849 - NovaAssistant - INFO - Speaking: Pothole model file not found. Please check your weights folder.
+2026-09-06 10:50:51,832 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\vidhy\\project1\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-09-06 10:50:51,832 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\vidhy\project1\.venv\Lib\site-packages\comtypes\gen'
+2026-09-06 10:50:51,994 - NovaAssistant - INFO - Nova Assistant Initializing...
+2026-09-06 10:50:51,995 - NovaAssistant - INFO - Speaking: Initializing Nova
+2026-09-06 10:51:06,842 - NovaAssistant - INFO - Speaking: Hello Captain. How can I help you?
+2026-09-06 10:51:14,627 - NovaAssistant - INFO - Speaking: I will remember that your name is Aman.
+2026-09-06 10:51:32,545 - NovaAssistant - INFO - Speaking: Hello Aman. How can I help you?
+2026-09-06 10:51:41,349 - NovaAssistant - INFO - Speaking: Getting the latest news.
+2026-09-06 10:51:43,399 - NovaAssistant - INFO - News Item: LSU blinks, for now, on the issue of putting former NFL players on the roster - nbcsports.com
+2026-09-06 10:51:43,400 - NovaAssistant - INFO - News Item: What happens next after Lindsay Clancy's murder case ends in a mistrial? - BBC
+2026-09-06 10:51:43,401 - NovaAssistant - INFO - News Item: Newly released Fetterman texts show a reluctance to perform constituent duties - CBS News
+2026-09-06 10:51:43,402 - NovaAssistant - INFO - News Item: ‘Tender Loving Care’ Review: Kate O’Flynn Astonishes in Mike Leigh’s Simple but Profoundly Moving Final Film - IndieWire
+2026-09-06 10:51:43,402 - NovaAssistant - INFO - News Item: ICE officer pleads not guilty to lying about shooting and is released from custody - apnews.com
+2026-09-06 10:51:43,405 - NovaAssistant - INFO - Processing AI command: today's news tell me the today today's
+2026-09-06 10:51:44,399 - NovaAssistant - INFO - Speaking: LSU blinks, for now, on the issue of putting former NFL players on the roster - nbcsports.com
+2026-09-06 10:51:45,869 - httpx2 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-09-06 10:51:45,871 - NovaAssistant - ERROR - OpenAI Error: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+2026-09-06 10:51:54,928 - NovaAssistant - INFO - Speaking: What happens next after Lindsay Clancy's murder case ends in a mistrial? - BBC
+2026-09-06 11:37:23,437 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\vidhy\\project1\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-09-06 11:37:23,438 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\vidhy\project1\.venv\Lib\site-packages\comtypes\gen'
+2026-09-06 11:37:23,559 - NovaAssistant - INFO - Nova Assistant Initializing...
+2026-09-06 11:37:23,559 - NovaAssistant - INFO - Speaking: Initializing Nova
+2026-09-06 11:37:31,493 - NovaAssistant - INFO - Speaking: Hello Aman. How can I help you?
+2026-09-06 11:37:40,708 - NovaAssistant - INFO - Speaking: Starting navigation to railway
+2026-09-06 11:37:40,827 - NovaAssistant - INFO - Processing AI command: navigate to Railway
+2026-09-06 11:37:42,812 - httpx2 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-09-06 11:37:42,813 - NovaAssistant - ERROR - OpenAI Error: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+2026-09-06 11:37:44,661 - NovaAssistant - INFO - Speaking: I'm having trouble connecting to my brain right now.
+2026-09-06 11:38:11,803 - NovaAssistant - INFO - Speaking: Hello Aman. How can I help you?
+2026-09-06 11:38:30,572 - NovaAssistant - INFO - Speaking: Hello Aman. How can I help you?
+2026-09-06 11:38:38,874 - NovaAssistant - INFO - Speaking: Getting the latest news.
+2026-09-06 11:38:39,895 - NovaAssistant - INFO - News Item: LSU blinks, for now, on the issue of putting former NFL players on the roster - nbcsports.com
+2026-09-06 11:38:39,898 - NovaAssistant - INFO - News Item: What happens next after Lindsay Clancy's murder case ends in a mistrial? - BBC
+2026-09-06 11:38:39,899 - NovaAssistant - INFO - News Item: Newly released Fetterman texts show a reluctance to perform constituent duties - CBS News
+2026-09-06 11:38:39,900 - NovaAssistant - INFO - News Item: ‘Tender Loving Care’ Review: Kate O’Flynn Astonishes in Mike Leigh’s Simple but Profoundly Moving Final Film - IndieWire
+2026-09-06 11:38:39,901 - NovaAssistant - INFO - News Item: ICE officer pleads not guilty to lying about shooting and is released from custody - apnews.com
+2026-09-06 11:38:39,902 - NovaAssistant - INFO - Processing AI command: today's news today's
+2026-09-06 11:38:41,839 - httpx2 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-09-06 11:38:41,841 - NovaAssistant - ERROR - OpenAI Error: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+2026-09-06 11:38:42,014 - NovaAssistant - INFO - Speaking: LSU blinks, for now, on the issue of putting former NFL players on the roster - nbcsports.com
+2026-09-06 11:38:52,322 - NovaAssistant - INFO - Speaking: What happens next after Lindsay Clancy's murder case ends in a mistrial? - BBC
+2026-09-06 11:39:00,432 - NovaAssistant - INFO - Speaking: Newly released Fetterman texts show a reluctance to perform constituent duties - CBS News
+2026-09-06 11:39:11,660 - NovaAssistant - INFO - Speaking: ‘Tender Loving Care’ Review: Kate O’Flynn Astonishes in Mike Leigh’s Simple but Profoundly Moving Final Film - IndieWire
+2026-09-06 11:39:22,889 - NovaAssistant - INFO - Speaking: ICE officer pleads not guilty to lying about shooting and is released from custody - apnews.com
+2026-09-06 11:39:31,933 - NovaAssistant - INFO - Speaking: I'm having trouble connecting to my brain right now.
+2026-09-06 11:39:46,126 - NovaAssistant - INFO - Speaking: Hello Aman. How can I help you?
+2026-09-06 11:39:54,949 - NovaAssistant - INFO - Speaking: Please show the text to the camera.
+2026-09-06 11:40:19,952 - NovaAssistant - INFO - Speaking: NUTRABAY PURE CREATINE MONOHYDRATE Micronized Untlavourod
+2026-09-06 11:40:19,952 - NovaAssistant - INFO - Processing AI command: read text
+2026-09-06 11:40:20,871 - httpx2 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-09-06 11:40:20,871 - NovaAssistant - ERROR - OpenAI Error: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+2026-09-06 11:41:17,045 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\vidhy\\project1\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-09-06 11:41:17,046 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\vidhy\project1\.venv\Lib\site-packages\comtypes\gen'
+2026-09-06 11:41:17,181 - NovaAssistant - INFO - Nova Assistant Initializing...
+2026-09-06 11:41:17,181 - NovaAssistant - INFO - Speaking: Initializing Nova
+2026-09-06 11:41:24,965 - NovaAssistant - INFO - Speaking: Hello Aman. How can I help you?
+2026-09-06 11:41:47,861 - NovaAssistant - INFO - Speaking: I found Dad.
+2026-09-06 11:41:47,863 - NovaAssistant - INFO - Processing AI command: call dad
+2026-09-06 11:41:49,720 - httpx2 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-09-06 11:41:49,722 - NovaAssistant - ERROR - OpenAI Error: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+2026-09-06 11:41:50,226 - NovaAssistant - INFO - Speaking: Would you like me to call Dad?
+2026-09-06 11:41:53,443 - NovaAssistant - INFO - Speaking: I'm having trouble connecting to my brain right now.
+2026-09-06 11:45:36,789 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\vidhy\\project1\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-09-06 11:45:36,789 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\vidhy\project1\.venv\Lib\site-packages\comtypes\gen'
+2026-09-06 11:45:36,910 - NovaAssistant - INFO - Nova Assistant Initializing...
+2026-09-06 11:45:36,910 - NovaAssistant - INFO - Speaking: Initializing Nova
+2026-09-06 11:45:45,160 - NovaAssistant - INFO - Speaking: Hello Aman. How can I help you?
+2026-09-06 11:45:51,815 - NovaAssistant - INFO - Executing command: call dad
+2026-09-06 11:45:56,321 - NovaAssistant - INFO - Speaking: Hello Aman. How can I help you?
+2026-09-06 11:46:04,000 - NovaAssistant - INFO - Executing command: call dad
+2026-09-06 11:46:13,693 - NovaAssistant - INFO - Speaking: Hello Aman. How can I help you?
+2026-09-06 11:46:20,998 - NovaAssistant - INFO - Executing command: call dad
+2026-09-06 11:46:31,137 - NovaAssistant - INFO - Speaking: Hello Aman. How can I help you?
+2026-09-06 11:46:41,213 - NovaAssistant - INFO - Executing command: call me Captain
+2026-09-06 11:46:41,216 - NovaAssistant - INFO - Speaking: Sure, I will call you Captain from now on.
+2026-09-06 11:46:50,492 - NovaAssistant - INFO - Speaking: Hello Captain. How can I help you?
+2026-09-06 11:46:59,412 - NovaAssistant - INFO - Executing command: call dad
+2026-09-06 11:47:05,236 - NovaAssistant - INFO - Speaking: Hello Captain. How can I help you?
+2026-09-06 11:47:14,246 - NovaAssistant - INFO - Executing command: navigate to Bamrauli
+2026-09-06 11:51:07,560 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\vidhy\\project1\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-09-06 11:51:07,561 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\vidhy\project1\.venv\Lib\site-packages\comtypes\gen'
+2026-09-06 11:51:07,689 - NovaAssistant - INFO - Nova Assistant Initializing...
+2026-09-06 11:51:07,690 - NovaAssistant - INFO - Speaking: Initializing Nova

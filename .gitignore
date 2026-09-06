@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Large AI models and weights
+*.pt
+*.onnx
+runs/
+*.zip
+
+# Secret keys
+.env
+
+# IDE settings
+.idea/
+*.iml
